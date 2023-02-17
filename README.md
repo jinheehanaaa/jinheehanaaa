@@ -27,6 +27,22 @@
    </a>
  </div>
  
+ <!-- Favorite Tools -->
+ ## Tools 
+ <h3>💻 Programming Languages</h3>
+ <p>
+  <a href="#"><img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="GO"></a>
+ </p>
+ <h3>💻 Packages/Libraries</h3>
+   - gRPC-GO
+ <h3>💻 General Tools</h3>
+<p>
+   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>  
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>  
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+ 
  <!-- YouTube Video Cards -->
  ## Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
