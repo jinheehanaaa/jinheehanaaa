@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         uses: actions/checkout@v3
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: jinheehanaaa/blog-post-workflow@v1
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://jinheehan.dev/feed/,https://www.jinheehan.dev/feed/"
