@@ -13,6 +13,7 @@
 
 - Self-Taught Go Programmer
 - Interested in learning:
+- - Distributed System
 - - Why & How things work
 - - Trade-offs from architectural decision
 
