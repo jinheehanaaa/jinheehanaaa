@@ -27,9 +27,6 @@
   <a href="https://twitter.com/JinheeHanAAA/">
  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>  
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=jinheehanaaa&style=for-the-badge&color=orange" alt="Profile View Counter">
-   </a>
  </div>
  
  <!-- Favorite Tools -->
