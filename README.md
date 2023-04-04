@@ -7,8 +7,9 @@
 </div
   
 
+
 <div id="about-me align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=24&duration=9999&pause=9999&color=F70CEA&width=550&lines=Hello%2C+I'm+Jinhee+Han;I'm+learning+backend+development%2C;Interested+in+distributed+system" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=24&duration=9999&pause=9999&color=F70CEA&width=550&lines=Hello%2C+I'm+Jinhee+Han;" alt="Typing SVG" /></a>
 </div>
 
 - Self-Taught Go Programmer
