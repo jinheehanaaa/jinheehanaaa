@@ -4,7 +4,7 @@
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514939/9611/linux.png?1643514939" width="80"/></a>
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514881/8944/vscode.png?1643514881" width="80"/></a>
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="80"/></a>
-</div
+</div>
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1620759044/38051/dotnet.png?1620759044" width="80"/></a>
 </div>
 
