@@ -39,6 +39,8 @@
  <h3>💻 Programming Languages</h3>
  <p>
   <a href="#"><img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="GO"></a>
+  <a href="#"><img alt="C#" src="https://emojis.slackmojis.com/emojis/images/1643514422/3999/csharp.png?1643514422" alt="GO"></a>
+  
  </p>
  <h3>💻 Packages/Libraries</h3>
    - gRPC-GO
