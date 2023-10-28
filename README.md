@@ -6,7 +6,7 @@
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="80"/></a>
 </div
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1620759044/38051/dotnet.png?1620759044" width="80"/></a>
-</div
+</div>
 
 
 <div id="about-me align="center">
